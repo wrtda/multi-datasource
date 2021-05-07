@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.xlspace.multi.datasource.aspect.DataSourceAspect,\
+  com.xlspace.multi.datasource.config.DataSourceConfig
